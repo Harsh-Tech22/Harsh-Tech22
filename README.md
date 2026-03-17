@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 I love coding in C & Python
+- 💻 coding in C & Python
 - 📚 Currently learning DSA
 - 🎯 Goal: Become a Software Developer
 
