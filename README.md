@@ -23,10 +23,7 @@
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
 
----
 
 ### 📫 Connect With Me
 - 📧 Email: harshplays.78@gmail.com
