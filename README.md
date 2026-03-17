@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blueviolet?style=for-the-badge&logo=codeforces)
 
 ---
 
