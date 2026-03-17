@@ -17,6 +17,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blueviolet?style=for-the-badge&logo=codeforces)
 ![C Projects](https://img.shields.io/badge/C-Projects-purple?style=for-the-badge&logo=c)
+![Python Experiments](https://img.shields.io/badge/Python-Experiments-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python Practice](https://img.shields.io/badge/Python-Practice%20Programs-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
