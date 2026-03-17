@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)
+![C DSA](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge).
 
 ---
 
