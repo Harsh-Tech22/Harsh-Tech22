@@ -16,6 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blueviolet?style=for-the-badge&logo=codeforces)
+![C Projects](https://img.shields.io/badge/C-Projects-purple?style=for-the-badge&logo=c)
 
 ---
 
